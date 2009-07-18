@@ -1,0 +1,8 @@
+<!-- Indices written at Sat, 18 Jul 2009 20:07:59 UTC -->
+
+<datastore-indexes>
+
+    <!-- Used 16 times in query history -->
+    <datastore-index kind="ReTweet" ancestor="true" source="auto"/>
+
+</datastore-indexes>

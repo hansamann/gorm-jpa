@@ -1,0 +1,18 @@
+<grails>
+  <resources>
+    <resource>BootStrap</resource>
+    <resource>Config</resource>
+    <resource>DataSource</resource>
+    <resource>resources</resource>
+    <resource>UrlMappings</resource>
+    <resource>hansa.ReTweetController</resource>
+    <resource>hansa.TweetController</resource>
+    <resource>hansa.ReTweet</resource>
+    <resource>hansa.Tweet</resource>
+    <resource>org.grails.appengine.AppEngineReloadController</resource>
+  </resources>
+  <plugins>
+    <plugin>AppEngineGrailsPlugin</plugin>
+    <plugin>GormJpaGrailsPlugin</plugin>
+  </plugins>
+</grails>
